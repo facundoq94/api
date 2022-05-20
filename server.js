@@ -1,6 +1,6 @@
 const express = require('express')
 const mysql = require('mysql')
-const myconn = require('express-myconnection')
+//const myconn = require('express-myconnection')
 
 const app = express()
 app.set('port', process.env.PORT || 9000)
