@@ -18,7 +18,7 @@ const dbOptions = {
 
 //routes
 app.get('/', (req, res) => {
-    res.send('welcome to my api gatoooi')
+    res.send('welcome to my api gaturro')
 })
 
 //server running
